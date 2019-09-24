@@ -1,12 +1,14 @@
 @charset "utf-8";
 p{
- color:red;		
+    color: #000000;
 }
 
 body{
- color:red;
+    color: red;
+    background-image: url(images/danger.png);
 }
 
 h1{
- color:red;	
+    color: #FFDD00;
+    background-color: #000000;
 }
